@@ -1,10 +1,8 @@
 # Exercise 1 
-Pobieraj od użytkownika napis, który zawiera w sobie dowolne pytanie oraz
-odpowiedzi z oznaczeniem, która z nich jest prawidłowa. Przykładowa postać
+Pobierz z pliku tekstowego napisy. Przykładowa postać
 napisu to:
 Stolica Polski?;Warszawa-TAK;Poznań-NIE;Kraków-NIE .
-Użytkownik pobiera napisy, dopóki nie wprowadzi pustego napisu poprzez
-wciśnięcie znaku ENTER. Wszystkie pobrane napisy należy zgromadzić w dowolnym
+Wszystkie pobrane napisy należy zgromadzić w dowolnym
 pojemniku danych: tablicy, liście, mapie, itd. Należy przygotować program,
 który po pobraniu pytań będzie prosił użytkownika o odpowiedź na każde
 pytanie. Program wyświetla treść pytania oraz odpowiedzi. Po wybraniu

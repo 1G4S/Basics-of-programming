@@ -1,0 +1,4 @@
+Stolica Polski?;Warszawa-TAK;Poznań-NIE;Kraków-NIE
+Największy ocean?;Atlantycki-NIE;Spokojny-TAK;Indyjski-NIE
+Kto odkrył Amerykę?;Kolumb-TAK;Vespucci-NIE;Magellan-NIE
+Jaki jest pierwiastek chemiczny o symbolu O?;Wodór-NIE;Tlen-TAK;Azot-NIE
