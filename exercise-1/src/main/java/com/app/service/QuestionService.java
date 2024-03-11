@@ -26,7 +26,7 @@ public class QuestionService {
             }
             System.out.print("Wybierz odpowiedź (numer): ");
             int userAnswer = scanner.nextInt();
-            if (question.checkAnswer(userAnswer - 1)) { // Adjusting index since user input starts from 1
+            if (question.checkAnswer(userAnswer - 1)) {
                 System.out.println("Dobrze!");
                 score++;
             } else {
